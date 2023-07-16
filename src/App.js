@@ -13,7 +13,7 @@ export default function App() {
 		</div>
 	);
 }
-
+// that is comment
 function Logo() {
 	return <h1>🌞farAway🌞</h1>;
 }
